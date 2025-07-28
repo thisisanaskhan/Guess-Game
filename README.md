@@ -20,9 +20,4 @@ Tech Stack
  * Grid Layout system used to support dynamic layout system.
  *  ⁠DoTween is used for card match and mismatch animation
 
-Screenshots of the Project
-<img width="1522" height="856" alt="Image" src="https://github.com/user-attachments/assets/8aa3d628-777e-4f0c-916f-dd47198fa650" />
 
-<img width="1520" height="850" alt="Image" src="https://github.com/user-attachments/assets/77c01905-8439-4ed9-b860-7cc4d9863810" />
-
-<img width="1430" height="750" alt="Image" src="https://github.com/user-attachments/assets/9356b95b-78b4-45d9-92ef-3421cc9d363c" />
